@@ -23,7 +23,7 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ### [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-Fri 28 Sep 2012 - Sat 31 Dec 2016
+Fri 28 Sep 2018 - Sun 18 Nov 2018
 
 Predict survival on the Titanic using Excel, Python, R & Random Forests
 
