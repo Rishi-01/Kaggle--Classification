@@ -488,7 +488,7 @@ This competition requires participants to predict edges in an online social netw
 
 ### [R Package Recommendation Engine](https://www.kaggle.com/c/R)
 
-Sun 10 Oct 2010 – Tue 8 Feb 2011
+Sat 3 Feb 2018 – Wed 18 Apr 2018
 
 The aim of this competition is to develop a recommendation engine for R libraries (or packages). (R is opensource statistics software.)
 
@@ -496,7 +496,7 @@ The aim of this competition is to develop a recommendation engine for R librarie
 
 ### [INFORMS Data Mining Contest 2010](https://www.kaggle.com/c/informs2010)
 
-Mon 21 Jun 2010 – Sun 10 Oct 2010
+Sat 3 Feb 2018 – Wed 18 Apr 2018
 
 The goal of this contest is to predict short term movements in stock prices. The winners of this contest will be honoured of the INFORMS Annual Meeting in Austin-Texas (November 7-10).
 
@@ -504,7 +504,7 @@ The goal of this contest is to predict short term movements in stock prices. The
 
 ### [Predict HIV Progression](https://www.kaggle.com/c/hivprogression)
 
-Tue 27 Apr 2010 – Mon 2 Aug 2010
+Sat 3 Feb 2018 – Wed 18 Apr 2018
 
 This contest requires competitors to predict the likelihood that an HIV patient's infection will become less severe, given a small dataset and limited clinical information.
 
@@ -512,7 +512,7 @@ This contest requires competitors to predict the likelihood that an HIV patient'
 
 ### [Forecast Eurovision Voting](https://www.kaggle.com/c/Eurovision2010)
 
-Wed 7 Apr 2010 – Tue 25 May 2010
+Sat 7 Apr 2018 – Thur 31 May 2018
 
 This competition requires contestants to forecast the voting for this year's Eurovision Song Contest in Norway on May 25th, 27th and 29th.
 
